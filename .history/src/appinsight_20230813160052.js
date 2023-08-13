@@ -11,7 +11,7 @@ var reactPlugin = new ReactPlugin();
 }; */
 var appInsights = new ApplicationInsights({
     config: {
-        connectionString: 'f5fb3703-4f38-476b-a253-8ceccbdd4388',
+        connectionString: 'YOUR_CONNECTION_STRING_GOES_HERE',
         // *** If you're adding the Click Analytics plug-in, delete the next line. ***
         extensions: [reactPlugin],
      // *** Add the Click Analytics plug-in. ***
