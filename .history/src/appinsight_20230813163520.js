@@ -25,5 +25,3 @@ var appInsights = new ApplicationInsights({
 });
 
 appInsights.loadAppInsights();
-
-export { appInsights };
